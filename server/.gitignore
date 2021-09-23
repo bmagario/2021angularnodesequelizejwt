@@ -1,0 +1,4 @@
+dist/
+dist.map
+.env.dev
+node_modules/
